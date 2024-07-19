@@ -1,4 +1,4 @@
-# Go to my [Disroot Git](https://git.disroot.org/lwad) profile.
+# Go to [my Gitea page](https://git.disroot.org/lwad).
 
 Why? Because GitHub offers:
 
@@ -11,4 +11,4 @@ Why? Because GitHub offers:
 
 ... and much, much more!
 
-*Is it really worth the discoverability?*
+*I don't beleive these are reasonable conditions for increased discoverability.*
