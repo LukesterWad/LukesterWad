@@ -1,4 +1,4 @@
-# Go to [my Gitea page](https://git.disroot.org/lwad).
+# Go to [my Forgejo page](https://git.lwad.xyz/).
 
 Why? Because GitHub offers:
 
